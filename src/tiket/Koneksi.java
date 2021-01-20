@@ -23,7 +23,7 @@ public class Koneksi {
                 
                 String url = "jdbc:mysql://localhost/kereta_api";
                 String user = "root";
-                String pass = "";
+                String pass = " ";
                 
                 koneksi = (Connection) DriverManager.getConnection(url,user,pass);
                 //JOptionPane.showMessageDialog(null,"Koneksi Berhasil");
