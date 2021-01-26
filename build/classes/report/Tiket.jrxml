@@ -23,7 +23,7 @@
 		<fieldDescription><![CDATA[]]></fieldDescription>
 	</field>
 	<field name="berangkat" class="java.lang.String">
-		<fieldDescription><![CDATA[]]></fieldDescription>
+		<fieldDescription><![CDATA[]]></fieldDescription>   
 	</field>
 	<field name="tiba" class="java.lang.String">
 		<fieldDescription><![CDATA[]]></fieldDescription>
